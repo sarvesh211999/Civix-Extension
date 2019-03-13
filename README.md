@@ -1,11 +1,5 @@
 # com.example.myextension
 
-![Screenshot](/images/screenshot.png)
-
-(*FIXME: In one or two paragraphs, describe what the extension does and why one would download it. *)
-
-The extension is licensed under [AGPL-3.0](LICENSE.txt).
-
 ## Requirements
 
 * PHP v5.6+
@@ -37,8 +31,5 @@ cv en myextension
 
 ## Usage
 
-(* FIXME: Where would a new user navigate to get started? What changes would they see? *)
+Just A Basic First Extension
 
-## Known Issues
-
-(* FIXME *)
