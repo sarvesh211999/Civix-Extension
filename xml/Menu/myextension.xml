@@ -4,12 +4,9 @@
     <path>civicrm/my-page</path>
     <page_callback>CRM_Myextension_Page_MyPage</page_callback>
     <title>My Page</title>
-    <access_arguments>access CiviCRM</access_arguments>
-  </item>
-  <item>
-    <path>civicrm/my-page2</path>
-    <page_callback>CRM_Myextension_Page_MyPage2</page_callback>
-    <title>MyPage2</title>
-    <access_arguments>access CiviCRM</access_arguments>
+    <!-- <access_arguments>access CiviCRM</access_arguments> -->
+    <!-- <access_arguments>1</access_arguments> -->
+    <access_callback>1</access_callback>
+    <is_public>true</is_public>
   </item>
 </menu>
